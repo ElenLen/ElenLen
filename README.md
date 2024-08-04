@@ -11,7 +11,7 @@
 </h1>
 <!--обо мне -->
 <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611a8dfxuo41pgc71minghj15fgs0kifxuyzcci83n9&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="600" height="300"/> 
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -41,7 +41,7 @@ I am a FrontEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :   
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElenLen&theme=merko&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElenLen&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **ElenLen/ElenLen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

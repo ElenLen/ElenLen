@@ -67,8 +67,9 @@ When I'm not coding, I like to: <br>
 ### :fire: My Stats :   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenLen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp; 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenLen)](https://github.com/ElenLen/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
+
 
 <!---  -->
 <!-- отобразим недавние посты, опубликованные пользователем на различных платформах

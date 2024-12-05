@@ -19,7 +19,7 @@
   <a href="mailto:relax-pl@yandex.ru" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Yandex&logo=yandex&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mail logo"  />
   </a>
-  <a href="https://t.me/nusya_1" target="_blank">
+  <a href="https://t.me/ElenLen" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1E90FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   

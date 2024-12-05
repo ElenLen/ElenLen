@@ -24,6 +24,7 @@
 
 ---
 
+
 ### :woman_technologist: About Me :
 
 I'm a Frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
@@ -39,9 +40,8 @@ When I'm not coding, I like to: <br>
 
 ### ✍️😀 Connect with me:
 
-<img src="https://github.com/ElenLen/ElenLen/blob/main/email.svg" title="email" alt="email" height="20"/> [][E-mail]&ensp;
-<img src="https://github.com/ElenLen/ElenLen/blob/main/telegram.svg" title="telegram" alt="telegram" height="20"/> [][Telegram]
-
+ <img src="https://github.com/ElenLen/ElenLen/blob/main/email.svg" title="email" alt="email" height="20"/> [E-mail][E-mail]&nbsp;&nbsp;
+ <img src="https://github.com/ElenLen/ElenLen/blob/main/telegram.svg" title="telegram" alt="telegram" height="20"/> [Telegram][Telegram]
 
 ---
 

@@ -3,7 +3,7 @@
 </div>
 
 
-<div id="header" >
+<div id="header"  align="center">
  <!--  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=ecf05e47m49rzv1ubp0gzwjb9lxv9u8ofkr7oa12sie97m2r&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/> -->
  <h1 >
    Hi, I'm Elena

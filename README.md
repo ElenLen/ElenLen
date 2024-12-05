@@ -27,8 +27,9 @@ I'm a Frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### Connect with me:
 
 <img src="https://github.com/ElenLen/ElenLen/blob/main/email.svg" title="email" alt="email" height="20"/> [E-mail][E-mail]&ensp;**|**&ensp;
-<!--img src="https://github.com/ElenLen/ElenLen/blob/main/linkedin.svg" title="linkedin" alt="linkedin" height="20"/> [LinkedIn][LinkedIn]&ensp;**|**&ensp; -->
 <img src="https://github.com/ElenLen/ElenLen/blob/main/telegram.svg" title="telegram" alt="telegram" height="20"/> [Telegram][Telegram]
+
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -53,12 +54,7 @@ I'm a Frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenLen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp; 
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenLen)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenLen&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -1,11 +1,17 @@
+<div align="center">
+  <img height="200" width="400" src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp1dmt1eGpzbmx0d2t0OWQwYjR6YmhjY2xuaHVsamY3dWMzbHRvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif'/>
+</div>
+
+
 <div id="header" >
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=ecf05e47m49rzv1ubp0gzwjb9lxv9u8ofkr7oa12sie97m2r&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
+ <!--  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=ecf05e47m49rzv1ubp0gzwjb9lxv9u8ofkr7oa12sie97m2r&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/> -->
  <h1 >
    Hi, I'm Elena
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <img src="https://komarev.com/ghpvc/?username=ElenLen&abbreviated=true&style=plastic&color=brightgreen" alt="badges"/>
 </div>
+
 <!-- <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=ElenLen&abbreviated=true&style=plastic&color=brightgreen" alt="badges"/>
 </div> -->

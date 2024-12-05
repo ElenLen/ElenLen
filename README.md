@@ -5,47 +5,45 @@
 
 <div id="header"  align="center">
  <!--  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=ecf05e47m49rzv1ubp0gzwjb9lxv9u8ofkr7oa12sie97m2r&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/> -->
- <h1 >
-   Hi, I'm Elena
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <h1 >
+    Привет, меня зовт Елена!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <!--счетчик посетителей -->
   <img src="https://komarev.com/ghpvc/?username=ElenLen&abbreviated=true&style=plastic&color=brightgreen" alt="badges"/>
+ <br>
+
+---  
+### ✍️👩 Написать мне
+  
+  <a href="mailto:relax-pl@yandex.ru" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Yandex&logo=yandex&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mail logo"  />
+  </a>
+  <a href="https://t.me/nusya_1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1E90FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  
 </div>
 
-<!-- <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ElenLen&abbreviated=true&style=plastic&color=brightgreen" alt="badges"/>
-</div> -->
-<!--счетчик посетителей -->
-
-<!--обо мне 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>-->
-
 ---
 
 
-### :woman_technologist: About Me :
+### 👩‍💻 Обо мне
 
-I'm a Frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- 🌱: I’m learning and involved in frontend development for building web applications.
-- 👩‍💻: I work with JavaScript, HTML, CSS3, Sass, Bootstrap
+Я Frontend-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+- 🌱 я с огромным желанием изучаю все новое и люблю внедрять полченные знания в свои проеткы. Люблю, кода сайты получаются красивые, фнкциональные и удобные в использовании
+- 👩‍💻 работаю с JavaScript, HTML, CSS3, Sass, Bootstrap
 
-When I'm not coding, I like to: <br>
-- 🏂 Snowboard in the mountains <br>
-- 🏃‍♀️ Run <br>
-- 📖 Read books <br>
-- 🐕🐱🐕 plaing with my pets <br>
+Когда я не кодю, я люблю:
+- 🏂 зимой покататься на сноуборде в горах
+- 🏃‍♀️ летом побегать
+- 📖 люблю читать книги
+- 🐕🐱🐕 играть со своими питомами
 
-
-### ✍️😀 Connect with me:
-
- <img src="https://github.com/ElenLen/ElenLen/blob/main/email.svg" title="email" alt="email" height="20"/> [E-mail][E-mail]&nbsp;&nbsp;
- <img src="https://github.com/ElenLen/ElenLen/blob/main/telegram.svg" title="telegram" alt="telegram" height="20"/> [Telegram][Telegram]
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 💻 Языки и инструменты
 
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -64,7 +62,7 @@ When I'm not coding, I like to: <br>
 
 ---
 
-### :fire: My Stats :   
+### 🔥 Моя cтатистика    
 
 <!-- Карточка профиля: -->
 <!-- Статистика языков в коммитах: -->

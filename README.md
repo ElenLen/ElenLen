@@ -51,7 +51,7 @@ I'm a Frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenLen)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[!](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
 
 <!---  -->
 <!-- отобразим недавние посты, опубликованные пользователем на различных платформах

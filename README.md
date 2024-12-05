@@ -24,6 +24,13 @@ I'm a Frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 🌱: I’m learning and involved in frontend development for building web applications.
 
+  When I'm not coding, I like to: <br>
+🏂 Snowboard in the mountains <br>
+🏃‍♀️ Run <br>
+📖 Read books <br>
+🐕🐱🐕 plaing with my pets <br>
+
+
 ### Connect with me:
 
 <img src="https://github.com/ElenLen/ElenLen/blob/main/email.svg" title="email" alt="email" height="20"/> [E-mail][E-mail]&ensp;**|**&ensp;
@@ -52,21 +59,15 @@ I'm a Frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :   
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenLen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp; 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenLen&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenLen)](https://github.com/ElenLen/github-readme-stats)
 
 <!---  -->
 <!-- отобразим недавние посты, опубликованные пользователем на различных платформах
 ### :writing_hand: Blog Posts : -->
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
-
-
-
 <!--
 **ElenLen/ElenLen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -84,6 +85,5 @@ Here are some ideas to get you started:
 
 
 [Telegram]: <https://t.me/ElenLen> 
-<!-- [LinkedIn]: <https://www.linkedin.com/in/alena-guillaume/> -->
-[E-mail]: <mailto: relax-pl@yandex.ru />
+[E-mail]: <mailto: relax-pl@yandex.ru>
 <!-- [My Portfolio]: <https://alenag.netlify.app/> -->

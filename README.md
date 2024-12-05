@@ -66,10 +66,16 @@ When I'm not coding, I like to: <br>
 
 ### :fire: My Stats :   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenLen)](https://github.com/ElenLen/github-readme-stats)&nbsp; 
+<!-- Карточка профиля: -->
+<!-- Статистика языков в коммитах: -->
+<!-- Статистика языков в репозиториях: -->
+<!-- Статистика профиля: -->
+<!-- Данные по коммитам за сутки: -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenLen&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElenLen&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenLen&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenLen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp; 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElenLen&theme=solarized_dark)
 
 <!---  -->
 <!-- отобразим недавние посты, опубликованные пользователем на различных платформах

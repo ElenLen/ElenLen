@@ -22,6 +22,7 @@
 
 I'm a Frontend-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - 🌱: I’m learning and involved in frontend development for building web applications.
+- 👩‍💻: I work with JavaScript, HTML, CSS3, Sass, Bootstrap
 
 When I'm not coding, I like to: <br>
 - 🏂 Snowboard in the mountains <br>
@@ -30,7 +31,7 @@ When I'm not coding, I like to: <br>
 - 🐕🐱🐕 plaing with my pets <br>
 
 
-### Connect with me:
+### ✍️😀 Connect with me:
 
 <img src="https://github.com/ElenLen/ElenLen/blob/main/email.svg" title="email" alt="email" height="20"/> [][E-mail]&ensp;
 <img src="https://github.com/ElenLen/ElenLen/blob/main/telegram.svg" title="telegram" alt="telegram" height="20"/> [][Telegram]
@@ -51,6 +52,7 @@ When I'm not coding, I like to: <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp; 
  
 </div>
 

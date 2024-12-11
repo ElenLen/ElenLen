@@ -27,23 +27,29 @@
 
 ---
 
+<div   align="center">
+  
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" > Обо мне
+</div>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Обо мне
+<div   margin-left: 200px;>
+  <ul  margin-left: 200px;>Я Frontend-разработчик из России.</ul>
+  <li  margin-left: 200px;>🌱 я с огромным желанием изучаю все новое, люблю внедрять полученные знания в свои проекты</li>
+  <li  margin-left: 200px;>🗺️ люблю, когда веб-сайты получаются красивые, функциональные и удобные в использовании</li>
+  <li  margin-left: 200px;>👩‍💻 работаю с JavaScript, HTML, CSS3, Sass, Bootstrap</li>
 
-Я Frontend-разработчик из России.
-- 🌱 я с огромным желанием изучаю все новое, люблю внедрять полученные знания в свои проекты
-- 🗺️ люблю, когда веб-сайты получаются красивые, функциональные и удобные в использовании
-- 👩‍💻 работаю с JavaScript, HTML, CSS3, Sass, Bootstrap
+  <ul margin-left: 200px;>Когда я не кодю, люблю:</ul>    
+    <li  margin-left: 200px;>🏂 зимой покататься на сноуборде в горах</li>
+    <li  margin-left: 200px;>🏃‍♀️ летом побегать и поучавствовать в соревнованиях</li>
+    <li  margin-left: 200px;>📖 люблю читать интересные книги</li>
+    <li  margin-left: 200px;>🐕🐱🐕 играть со своими питомами</li>
 
-Когда я не кодю, люблю:
-- 🏂 зимой покататься на сноуборде в горах
-- 🏃‍♀️ летом побегать и поучавствовать в соревнованиях
-- 📖 люблю читать интересные книги
-- 🐕🐱🐕 играть со своими питомами
-
+</div>
 
 ---
 
+<div   align="center">
+  
 ### 💻 Языки и инструменты
 
 <div>
@@ -60,9 +66,11 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp; 
  
 </div>
-
+</div>
 ---
 
+<div   align="center">
+  
 ### 🔥 Моя cтатистика    
 
 <!-- Карточка профиля: -->
@@ -70,12 +78,14 @@
 <!-- Статистика языков в репозиториях: -->
 <!-- Статистика профиля: -->
 <!-- Данные по коммитам за сутки: -->
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenLen&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElenLen&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenLen&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElenLen&theme=solarized_dark)
 
+</div>
 <!---  -->
 <!-- отобразим недавние посты, опубликованные пользователем на различных платформах
 ### :writing_hand: Blog Posts : -->
@@ -97,6 +107,3 @@ Here are some ideas to get you started:
 -->
 
 
-[Telegram]: <https://t.me/ElenLen> 
-[E-mail]: <mailto: relax-pl@yandex.ru>
-<!-- [My Portfolio]: <https://alenag.netlify.app/> -->

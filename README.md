@@ -9,11 +9,11 @@
     Привет, меня зовут Елена!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
   </h1>
-  <!--счетчик посетителей -->
-  <img src="https://komarev.com/ghpvc/?username=ElenLen&abbreviated=true&style=plastic&color=brightgreen"
-    alt="badges" />
-  <br>
+  <div align="left">
+    Я начинающий Frontend-разработчик с сильным аналитическим бэкграундом. Умею не просто писать код, а понимать бизнес-задачу за ним. Влюблена в создание интуитивных и отзывчивых пользовательских интерфейсов.
+  </div> 
 
+ 
   ---
   ### ✍️👩 Написать мне
 
@@ -27,7 +27,15 @@
       src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1E90FF&logoColor=white&labelColor=&style=for-the-badge"
       height="25" alt="telegram logo" />
   </a>
+
+   <!--счетчик посетителей -->  
+  <div >
+    <img src="https://komarev.com/ghpvc/?username=ElenLen&abbreviated=true&style=plastic&color=brightgreen"
+    alt="badges" />
+  </div>
 </div>
+
+ 
 
 ---
 
@@ -35,8 +43,20 @@
   
   ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Обо мне
 </div>
-
-<div margin-left: 200px;>
+<div>
+  <h2>
+    Frontend-разработчик | HTML, CSS, JavaScript, React
+  </h2>
+  <p>
+    Создаю интуитивные и адаптивные пользовательские интерфейсы.
+  </p>
+<p>
+  💼 Мое портфолио: 
+  <a href="https://github.com/ElenLen/elenlen-frontend-portfolio" target="_blank">portfolio</a>
+</p>
+  
+</div>
+<!-- <div margin-left: 200px;>
   <ul>Я Frontend-разработчик из России.
     <li>🌱 я с огромным желанием изучаю все новое, люблю внедрять полученные знания в свои проекты
     </li>
@@ -52,7 +72,7 @@
     <li>📖 люблю читать интересные книги</li>
     <li>🐕🐱🐕 играть со своими питомами</li>
   </ul>
-</div>
+</div> -->
 
 ---
 

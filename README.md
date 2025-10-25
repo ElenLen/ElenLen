@@ -45,7 +45,7 @@
 </div>
 <div>
   <h2>
-    Frontend-разработчик | HTML, CSS, JavaScript, React
+    Frontend-разработчик | HTML, CSS, JavaScript, React, Angular
   </h2>
   <p>
     Создаю интуитивные и адаптивные пользовательские интерфейсы.

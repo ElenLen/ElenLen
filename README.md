@@ -4,106 +4,131 @@
 </div>
 
 
-<div id="header" align="center">
-  <h1>
-    Привет, меня зовут Елена!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-  </h1>
-  <div align="left">
-    Я начинающий Frontend-разработчик с сильным аналитическим бэкграундом. Умею не просто писать код, а понимать бизнес-задачу за ним. Влюблена в создание интуитивных и отзывчивых пользовательских интерфейсов.
-  </div> 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Привет, я Елена 
 
- 
-  ---
-  ### ✍️👩 Написать мне
+**Frontend Developer | JavaScript/TypeScript Engineer | Создаю современные и отзывчивые веб-интерфейсы**
 
-  <a href="mailto:relax-pl@yandex.ru" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Yandex&logo=yandex&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
-      height="25" alt="mail logo" />
-  </a>
-  <a href="https://t.me/ElenLen" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1E90FF&logoColor=white&labelColor=&style=for-the-badge"
-      height="25" alt="telegram logo" />
-  </a>
-
-   <!--счетчик посетителей -->  
-  <div >
-    <img src="https://komarev.com/ghpvc/?username=ElenLen&abbreviated=true&style=plastic&color=brightgreen"
-    alt="badges" />
-  </div>
-</div>
-
- 
+Я увлечена созданием интуитивных и производительных веб-приложений. Мой стек — это современный JavaScript/TypeScript, React и изучаемый Angular. Люблю превращать макеты в живые, интерактивные интерфейсы с чистым кодом и вниманием к деталям.
 
 ---
 
+### 🛠 Технологический стек
+
+**Основные технологии:**
+`JavaScript` `TypeScript` `React` `HTML5` `CSS3` `SASS/SCSS` `Responsive Web Design`
+
+**Изучаю и применяю:**
+`Angular` `RxJS` `State Management`
+
+**Инструменты:**
+`Git` `GitHub Actions` `Webpack` `Vite` `Figma` `Chrome DevTools` `VS Code`
+
+---
+
+## 🚀 Мои ключевые проекты
+
+### ["How to say...?"](https://github.com/ElenLen/word_learning_app)
+> **Описание:** Современное веб-приложение для изучения иностранных слов по карточкам, реализовано на React + Vite.
+
+*   **Стек:** `JavaScript`, `React`, `React Hooks`, `CSS Modules`, `Vite`
+*   **Особенности:** Использование Context API для управления состоянием, кастомные хуки, адаптивная верстка
+<!-- *   **Демо:** [Ссылка на живую демо-версию, если есть] -->
+
+---
+
+### [Cookies](https://github.com/ElenLen/cookies)
+> **Описание:** "Мое первое приложение на Angular — проект создан по лендингу из Figma на 7-дневном интенсиве от #ItLogia".
+
+*   **Стек:** `Angular`, `TypeScript`, `RxJS`, `Angular Material`
+*   **Особенности:** Работа с компонентами, сервисами, модульная архитектура, адаптив, лоадер, анимации в проекте
+*   **Что изучаю:** Внедрение зависимостей, работа с Observables, формы
+*   **Демо:** [Cookies](https://elenlen.github.io/cookies/)
+
+--- 
+
+### [Приложение учета финансов](https://github.com/ElenLen/m10_home_finance_app)
+> **Описание:** "Интерактивное приложение на ванильном JavaScript — учет финансов".
+
+*   **Стек:** `JavaScript ES6+`, `CSS3`, `HTML5`, `REST API`
+*   **Особенности:** Работа с асинхронными запросами, манипуляции с DOM, обработка событий
+*   **Фичи:** Используется Backend для сохранения данных, адаптивный дизайн
+
+---
+
+<!-- ### [Адаптивный лендинг](https://github.com/ElenLen/your-landing-repo)
+> **Описание:** "Pixel-perfect верстка по макету из Figma с анимациями и интерактивными элементами".
+
+*   **Стек:** `HTML5`, `SASS`, `JavaScript`, `Gulp`
+*   **Особенности:** Mobile-first подход, кроссбраузерная верстка, семантическая разметка
+*   **Доступность:** Оптимизация для SEO и доступности (a11y)
+
+--- -->
+
+### [Сайт школы танцев](https://github.com/ElenLen/Lava-Studio)
+> **Описание:** "Сайт школы танцев — проектная работа в команде".
+
+*   **Стек:** `Bootstrap`, `Sass`, `HTML`, адаптивная верстка
+*   **Моя задача:** разработать ключевые модули для сайта с расписанием и ценами
+*   **Демо:** [Lava-Studio](https://xeni-ya.github.io/Lava-Studio/)
+  
+---
+
+## 📈 Активность на GitHub <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+
 <div align="center">
-  
-  ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Обо мне
+
+<!-- [![ElenLen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenLen&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=vue)](https://github.com/ElenLen)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenLen&layout=compact&theme=vue&hide=php,java)](https://github.com/ElenLen)
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=ElenLen&theme=vue)](https://git.io/streak-stats) -->
+
+
+
+  <!-- Карточка профиля: -->
+  <!-- Статистика языков в коммитах: -->
+  <!-- Статистика языков в репозиториях: -->
+  <!-- Статистика профиля: -->
+  <!-- Данные по коммитам за сутки: -->
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenLen&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElenLen&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenLen&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElenLen&theme=solarized_dark)
+
 </div>
-<div>
-  <h2>
-    Frontend-разработчик | HTML, CSS, JavaScript, React, Angular
-  </h2>
 
+---
 
-## 🛠 Мой стек технологий
-*   **Языки:** HTML5, CSS3, JavaScript (ES6+)
-*   **Фреймворки / Библиотеки:** React, Angular
-*   **Препроцессоры и методологии:** Sass, БЭМ
-*   **Инструменты:** Git, GitHub, Figma, Webpack, npm
-*   **Сильные стороны:** Адаптивная верстка, аналитическое мышление, работа с API
+## 🎯 На чем сейчас фокусируюсь
 
-## 📁 Мои проекты
-### Сайт школы танцев
-[![Demo](https://img.shields.io/badge/Живой_демо-FF6B6B?style=flat)](https://xeni-ya.github.io/Lava-Studio/) [![Code](https://img.shields.io/badge/Исходный_код-4ECDC4?style=flat)](https://github.com/ElenLen/Lava-Studio)
-*   Bootstrap, Sass, адаптивная верстка.
-*   *Задача: разработать ключевые модули для сайта с расписанием и ценами.*
+- [X] **Углубляю знания в Angular** и экосистеме
+- [ ] **Изучаю продвинутые паттерны** в TypeScript
+- [ ] **Практикую алгоритмы** и структуры данных
+- [X] **Разрабатываю пет-проект** на полном стеке
 
-### Сайт Cookies (Angular)
-[![Demo](https://img.shields.io/badge/Живой_демо-FF6B6B?style=flat)](https://elenlen.github.io/cookies/) [![Code](https://img.shields.io/badge/Исходный_код-4ECDC4?style=flat)](https://github.com/ElenLen/cookies)
-*   CSS, JavaScript, фреймворк Angular, TypeScript, добавлены: адаптив, лоадер, анимации в проекте
-*   *Проект создан по лендингу из Figma на 7-дневном интенсиве от #ItLogia.*
+---
 
-### Сайт пиццы сверстанный по методологии БЭМ
-[![Demo](https://img.shields.io/badge/Живой_демо-FF6B6B?style=flat)](https://elenlen.github.io/m3_15_Pizza/) [![Code](https://img.shields.io/badge/Исходный_код-4ECDC4?style=flat)](https://github.com/ElenLen/m3_15_Pizza)
-*   CSS, JavaScript, адаптивность, БЭМ, бургер-меню.
+## 📫 Как со мной связаться
 
-### Diamaint - Адаптивный лендинг
-[![Demo](https://img.shields.io/badge/Живой_демо-FF6B6B?style=flat)](https://elenlen.github.io/diamaint/) [![Code](https://img.shields.io/badge/Исходный_код-4ECDC4?style=flat)](https://github.com/ElenLen/diamaint)
-*   Чистый JS, адаптивность, БЭМ, бургер-меню.
-*   *Задача: превратить статичный макет Figma в интерактивный веб-сайт.*
+Я открыта к предложениям о работе и интересным проектам в области фронтенд-разработки.
 
-
-## 📞 Контакты
+*   **Telegram:** [@ElenLen](https://t.me/ElenLen)
 *   **Email:** relax-pl@yandex.ru
-*   **Telegram:** @ElenLen
-*   **Резюме:** [Резюме](https://perm.hh.ru/resume/75d1a305ff038b29f90039ed1f4a7767344944)
+<!-- *   **LinkedIn:** [Елена Лен](https://www.linkedin.com/in/your-profile/)
+*   **Портфолио:** [Ссылка на ваше портфолио-сайт, если есть]
+-->
+---
 
+<div align="left">
 
+### 💡 "Хороший код — это как хорошая шутка. Ему не нужно объяснение."
+— Russ Olsen
 
+<!-- *Последнее обновление: {{ТЕКУЩИЙ МЕСЯЦ/ГОД}}* -->
 
-  
 </div>
-<!-- <div margin-left: 200px;>
-  <ul>Я Frontend-разработчик из России.
-    <li>🌱 я с огромным желанием изучаю все новое, люблю внедрять полученные знания в свои проекты
-    </li>
-    <li>🗺️ люблю, когда веб-сайты получаются красивые, функциональные и удобные в использовании
-    </li>
-    <li>👩‍💻 работаю с JavaScript, HTML, БЭМ, CSS, Sass, Bootstrap, jQuery, Ajax, LESS, SASS, NPM, сборщиками Gulp\Grunt</li>
-    <li>👩‍💻 верстаю с Photoshop, Figma</li>
-  </ul>
-
-  <ul>Когда я не кодю, люблю:
-    <li>🏂 зимой покататься на сноуборде в горах</li>
-    <li>🏃‍♀️ летом побегать и поучавствовать в соревнованиях</li>
-    <li>📖 люблю читать интересные книги</li>
-    <li>🐕🐱🐕 играть со своими питомами</li>
-  </ul>
-</div> -->
 
 ---
 
@@ -152,21 +177,9 @@
 </div>
 
 ---
+   <!--счетчик посетителей -->  
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ElenLen&abbreviated=true&style=plastic&color=brightgreen"
+    alt="badges" />
+  </div>
 
-<div align="center">
-
-  ### 🔥 Моя cтатистика
-
-  <!-- Карточка профиля: -->
-  <!-- Статистика языков в коммитах: -->
-  <!-- Статистика языков в репозиториях: -->
-  <!-- Статистика профиля: -->
-  <!-- Данные по коммитам за сутки: -->
-
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElenLen&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElenLen&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElenLen&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElenLen&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ElenLen&theme=solarized_dark)
-
-</div>

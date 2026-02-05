@@ -6,7 +6,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> Привет, я Елена 
 
-**Frontend Developer | Angular, JavaScript/TypeScript Engineer | Стремлюсь к профессиональному росту и новым знаниям. Создаю современные и отзывчивые веб-интерфейсы**
+**Frontend Developer | Angular, JavaScript/TypeScript Engineer | Создаю современные и отзывчивые веб-интерфейсы**
 
 Я увлечена созданием интуитивных и производительных веб-приложений. Мой стек — это современный JavaScript/TypeScript, React и Angular. Люблю превращать макеты в живые, интерактивные интерфейсы с чистым кодом и вниманием к деталям.
 
